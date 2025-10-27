@@ -1,6 +1,9 @@
 # ToyhouseXIV
 Local utility to backup and import Penumbra, Glamourer and more configurations for Final Fantasy XIV.
 
+## Note
+This is WIP, development was mainly done between Aug. 26, 2025 - Sept. 1, 2025. Uploaded to GitHub for posterity at the date of Oct. 27, 2025. This notice will be removed if development resumes. 
+
 ## Current state
 Requires 0 advanced interaction:
 - Automatically identifies FFXIV path, Penumbra path, Glamourer path, etc...
